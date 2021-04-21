@@ -25,7 +25,7 @@
 ![language3](https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=css3)
 ![editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
 ![tools](https://img.shields.io/badge/Tools-MySQL-blue?style=flat&logo=mysql)
-![tools](https://img.shields.io/badge/Tools-SQL-blue?style=flat&logo=sql)
+![tools](https://img.shields.io/badge/Tools-sql-blue?style=flat&logo=sql)
 ![tools](https://img.shields.io/badge/Shell-Bash-blue?style=flat&logo=gnu-bash)
 
 <!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
