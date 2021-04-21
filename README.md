@@ -6,7 +6,7 @@ Reference:
 4. https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=719s
  -->
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently learning anything that excites me
