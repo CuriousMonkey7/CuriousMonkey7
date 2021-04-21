@@ -20,26 +20,13 @@
 ![tools](https://img.shields.io/badge/Tools-MySQL-blue?style=flat&logo=mysql)
 ![tools](https://img.shields.io/badge/Shell-Bash-blue?style=flat&logo=gnu-bash)
 
-[twitter]: https://twitter.com/Sourabh7211
-[youtube]: https://www.youtube.com/channel/UCNe5XauN_090ByUvN-VbnOw/featured
-[linkedin]: https://www.linkedin.com/in/sourabh7211
-
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-
-  <p align="center">
-    <a href="http://hits.dwyl.com/jayehernandez/jayehernandez">
-      <img align="center" src="http://hits.dwyl.com/jayehernandez/jayehernandez.svg">
-    </a>
+    <a href=" https://twitter.com/Sourabh7211" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/sourabh7211/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:Sourabh19113@iiitd.ac.in" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
   </p>
 </p>
-
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
