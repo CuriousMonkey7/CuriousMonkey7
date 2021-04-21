@@ -7,6 +7,6 @@
 - 📫 How to reach me: sourabh19113@iiitd.ac.in
 - 😄 Pronouns: he/him
 
-[![Sourabh'sGitHub stats](https://github-readme-stats.vercel.app/api?username=100RABHpy&count_private=true&show_icons=true&theme=dark)]
+[Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=100RABHpy&count_private=true&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100RABHpy)](https://github.com/anuraghazra/github-readme-stats)
