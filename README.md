@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
-
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
 ### Hi there 👋
 
 - 🔭 I’m currently working on building my portfolio
@@ -11,13 +10,6 @@
 
 ![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=100RABHpy&count_private=true&show_icons=true&theme=merko&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100RABHpy&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Connect with me:
-
-[<img align="left" alt="Sourabh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sourabh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sourabh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<br />
 
 ### Languages and Tools:
 
