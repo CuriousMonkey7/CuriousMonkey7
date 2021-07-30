@@ -33,7 +33,7 @@ Reference:
   <i>Let's connect and chat!</i>
 
   <p align="center">
-    <a href="https://twitter.com/Sourabh7211" target="_blank" rel="noopener noreferrer" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://twitter.com/CuriousMonkey7" target="_blank" rel="noopener noreferrer" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/sourabh7211/" target="_blank" rel="noopener noreferrer" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:Sourabh19113@iiitd.ac.in" target="_blank" rel="noopener noreferrer" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
   </p>
