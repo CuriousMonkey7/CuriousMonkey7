@@ -15,8 +15,8 @@ Reference:
 - 📫 How to reach me: sourabh19113@iiitd.ac.in
 - 😄 Pronouns: he/him
 
-![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=100RABHpy&count_private=true&show_icons=true&theme=merko&hide=stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100RABHpy&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuriousMonkey7&count_private=true&show_icons=true&theme=merko&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriousMonkey7&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
