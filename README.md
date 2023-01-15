@@ -7,13 +7,7 @@ Reference:
  -->
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-- 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning anything that excites me
-- 👯 I’m looking to collaborate on on any open source project, project related to Fintech
-- 💬 Open to talk about new tech,startups, world history, economic history, biotech. 
 - 📫 How to reach me: sourabh19113@iiitd.ac.in
-- 😄 Pronouns: he/him
 
 ![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuriousMonkey7&count_private=true&show_icons=true&theme=merko&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriousMonkey7&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
