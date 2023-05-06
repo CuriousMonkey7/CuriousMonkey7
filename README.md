@@ -7,7 +7,7 @@ Reference:
  -->
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 📫 How to reach me: sourabh19113@iiitd.ac.in
+- 📫 How to reach me: Sourabh72101@gmail.com
 
 ![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuriousMonkey7&count_private=true&show_icons=true&theme=merko&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuriousMonkey7&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
