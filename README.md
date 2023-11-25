@@ -14,12 +14,12 @@ Reference:
 
 ### Languages and Tools:
 
-![language1](https://img.shields.io/badge/Code-JS-blue?style=flat&logo=javascript)
-![language4](https://img.shields.io/badge/Code-Java-blue?style=flat&logo=java)
+![language1](https://img.shields.io/badge/Code-PyTorch-blue?style=flat&logo=pytorch)
+![language4](https://img.shields.io/badge/Code-Pandas-blue?style=flat&logo=pandas)
 ![language2](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
-![language3](https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=css3)
+![language3](https://img.shields.io/badge/Code-Numpy-blue?style=flat&logo=numpy)
 ![editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
-![tools](https://img.shields.io/badge/Tools-MySQL-blue?style=flat&logo=mysql)
+![tools](https://img.shields.io/badge/Tools-Linux-blue?style=flat&logo=linux)
 ![tools](https://img.shields.io/badge/Shell-Bash-blue?style=flat&logo=gnu-bash)
 
 <hr>
@@ -29,6 +29,6 @@ Reference:
   <p align="center">
     <a href="https://twitter.com/Curious_Monkey7" target="_blank" rel="noopener noreferrer" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/sourabh7211/" target="_blank" rel="noopener noreferrer" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:Sourabh19113@iiitd.ac.in" target="_blank" rel="noopener noreferrer" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="mailto:Sourabh72101@gmail.com" target="_blank" rel="noopener noreferrer" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
   </p>
 </p>
